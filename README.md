@@ -1,4 +1,4 @@
 # hello-git
-Meu primeiro repository no GitHub
+Meu primeiro repository in GitHub
 
 ### Senac Miguel Paulista
